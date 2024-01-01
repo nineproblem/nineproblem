@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nineproblem
+- 👋 Hi, I’m NineProblem
 - 👀 I’m interested in  reading
 - 🌱 I’m currently learning ReactJs and Php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  https://www.facebook.com/okk.soe.10
+- 📫 How to reach me okksoe7@gmail.com (or)  [facebook](https://www.facebook.com/okk.soe.10)
+
 
 <!---
 nineproblem/nineproblem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
