@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NineProblem
 - 👀 I’m interested in  reading
-- 🌱 I’m currently learning ReactJs and Php
+- 🌱 I’m currently learning ReactJs and Php and Python 
 - 📫 How to reach me okksoe7@gmail.com (or)  [facebook](https://www.facebook.com/okk.soe.10)
 
 
